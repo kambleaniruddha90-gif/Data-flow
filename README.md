@@ -69,7 +69,9 @@ next_question: Moves to the next topic if score _> 7.
 
 - **repeat:**
 Asks for elaboration if the answer is too short.
-flag_for_review: Triggered if risk_score > 0.7.
+
+- **flag_for_review:**
+   Triggered if risk_score > 0.7.
 
 ## ⚠️Failure Flow Mapping
 
